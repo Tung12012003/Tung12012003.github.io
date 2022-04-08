@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html>
 <head>
 <title>https-24h.com</title>
