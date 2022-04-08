@@ -7,9 +7,13 @@ table, tr, td {
 	border: 1px solid black;
 	border-collapse: collapse;
 }
+body {
+	background-color: blue;
+	color: blue;
+}
 </style>
 </head>
-<body style="background-color: blue;">
+<body>
 
   <h1>Top những truyện tranh hay nhất Nhật Bản trong quá khứ bạn trẻ </h1>
   <table >
