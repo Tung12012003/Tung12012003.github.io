@@ -9,7 +9,7 @@ table, tr, td {
 }
 </style>
 </head>
-<body>
+<body style="background-color: blue;">
 
   <h1>Top những truyện tranh hay nhất Nhật Bản trong quá khứ bạn trẻ </h1>
   <table >
