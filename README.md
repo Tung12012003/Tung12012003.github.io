@@ -5,7 +5,7 @@
 </head>
 <body>
 
-  <h1 style="color:Tomato;">Top những truyện tranh hay nhất Nhật Bản trong quá khứ bạn trẻ </h1>
+  <h1 style="color:red;">Top những truyện tranh hay nhất Nhật Bản trong quá khứ bạn trẻ </h1>
   <table>
   <tr>
   <td>One Piece</td>
