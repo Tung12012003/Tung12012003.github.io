@@ -2,21 +2,11 @@
 <html>
 <head>
 <title>Top truyen tranh hay nhat</title>
-  <style>
-table, tr, td {
-	border: 1px solid black;
-	border-collapse: collapse;
-}
-body {
-	background-color: blue;
-	color: blue;
-}
-</style>
 </head>
 <body>
 
   <h1>Top những truyện tranh hay nhất Nhật Bản trong quá khứ bạn trẻ </h1>
-  <table >
+  <table border:1>
   <tr>
   <td>One Piece</td>
   </tr>
