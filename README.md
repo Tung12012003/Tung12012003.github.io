@@ -3,7 +3,7 @@
 <head>
 <title>Top truyen tranh hay nhat</title>
 </head>
-<body>
+<body style="background-color: DodgerBlue;">
 
   <h1>Top những truyện tranh hay nhất Nhật Bản trong quá khứ bạn trẻ </h1>
   <table>
