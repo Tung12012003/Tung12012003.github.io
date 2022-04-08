@@ -4,14 +4,16 @@
 <head>
 <title>Top truyen tranh hay nhat</title>
 </head>
-   
+   <style>
+      table,td{ boder:1px solid black;}
+      </style>
 <body> 
    <style> {"background-color:#22fcf8;
       }
  
   <h1>Top những truyện tranh hay nhất Nhật Bản trong quá khứ bạn trẻ </h1>
 
-  <table  border = 1>
+  <table style="width:100%>
   <tr>
   <td>One Piece</td>
   </tr>
