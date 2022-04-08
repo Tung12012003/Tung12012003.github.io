@@ -5,7 +5,7 @@
 <title>Top truyen tranh hay nhat</title>
 </head>
    
-<body style = "background-color:yellow;">
+<body style = "background-color:red;">
  
   <h1>Top những truyện tranh hay nhất Nhật Bản trong quá khứ bạn trẻ </h1>
 
