@@ -3,9 +3,9 @@
 <head>
 <title>Top truyen tranh hay nhat</title>
 </head>
-<body style="background-color: blue;">
+<body>
 
-  <h1>Top những truyện tranh hay nhất Nhật Bản trong quá khứ bạn trẻ </h1>
+  <h1 style="color:Tomato;">Top những truyện tranh hay nhất Nhật Bản trong quá khứ bạn trẻ </h1>
   <table>
   <tr>
   <td>One Piece</td>
