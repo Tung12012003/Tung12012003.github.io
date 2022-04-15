@@ -1,6 +1,4 @@
-<!DOCTYPE html>
 <html>
-
 <head>
 <title>Top truyen tranh hay nhat</title>
 </head>
