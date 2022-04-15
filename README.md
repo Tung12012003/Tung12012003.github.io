@@ -79,11 +79,5 @@ One Piece là bộ truyện xoay quanh một nhóm cướp biển được gọi
 <p>Bleach đã được đánh giá là bộ phim truyền hình anime phổ biến thứ tư tại Nhật Bản trong năm 2006 và nằm trong top mười anime hàng đầu tại Hoa Kỳ từ 2006-2008. Bleach cũng nhận được giải thưởng Shogakukan Manga Award trong năm 2005, và là một trong những manga bán chạy tốt nhất tại cả Nhật Bản và Hoa Kỳ. Ở Việt Nam, Bleach được phát hành với tên gọi Sứ mạng thần chết từ năm 2010.</p>
   <p>nếu muốn xem Bleach link phần dưới đây:
    <a href="https://animehay.club/tim-kiem/Bleach.html/">Visit animeha.club</a></p>
-      <form>
-  <label for="name">Your name:</label><br>
-  <input type="text" id="name" name="name"><br>
-  <label for="pass">Phone number:</label><br>
-  <input type="text" id="pass" name="pass">
-</form>
 </body>
 </html>
