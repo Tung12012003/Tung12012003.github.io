@@ -80,6 +80,11 @@ One Piece là bộ truyện xoay quanh một nhóm cướp biển được gọi
   <p>nếu muốn xem Bleach link phần dưới đây:
    <a href="https://animehay.club/tim-kiem/Bleach.html/">Visit animeha.club</a>
 </p>
-
+<form>
+  <label for="fname">First name:</label><br>
+  <input type="text" id="fname" name="fname"><br>
+  <label for="lname">Last name:</label><br>
+  <input type="text" id="lname" name="lname">
+</form>
 </body>
 </html>
