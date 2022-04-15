@@ -75,10 +75,7 @@ One Piece là bộ truyện xoay quanh một nhóm cướp biển được gọi
 <p>Bleach kể về những cuộc phiêu lưu của Kurosaki Ichigo sau khi anh có được những quyền hạn của Soul Reaper - một sự nhân cách hóa cái chết tương tự như Grim Reaper - từ một Soul Reaper khác, Kuchiki Rukia. Sức mạnh mới phát hiện này buộc anh phải nhận nhiệm vụ bảo vệ con người khỏi ma quỷ và hướng dẫn linh hồn sang thế giới bên kia.</p>
       
     <img src="b.jpg" alt="bleach" width="500" height="600">
-     <video width="320" height="240" autoplay>
-  <source src="https://www.youtube.com/watch?v=iutQJzAXiWo" type="video/mp4">
-</video>
-
+<iframe width="560" height="315" src="https://www.youtube.com/watch?v=iutQJzAXiWo" frameborder="0" allowfullscreen></iframe>
 <p>Bleach đã được đánh giá là bộ phim truyền hình anime phổ biến thứ tư tại Nhật Bản trong năm 2006 và nằm trong top mười anime hàng đầu tại Hoa Kỳ từ 2006-2008. Bleach cũng nhận được giải thưởng Shogakukan Manga Award trong năm 2005, và là một trong những manga bán chạy tốt nhất tại cả Nhật Bản và Hoa Kỳ. Ở Việt Nam, Bleach được phát hành với tên gọi Sứ mạng thần chết từ năm 2010.</p>
   <p>nếu muốn xem Bleach link phần dưới đây:
    <a href="https://animehay.club/tim-kiem/Bleach.html/">Visit animeha.club</a>
