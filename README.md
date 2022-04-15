@@ -7,9 +7,8 @@
    <style>
       table,td{ boder:1px solid black;}
       </style>
-<body> 
-   <style> {"background-color:#0ABAB5";
-      }
+<body style="background-color:#0ABAB5";>
+      
  
   <h1>Top những truyện tranh hay nhất Nhật Bản trong quá khứ bạn trẻ </h1>
 
