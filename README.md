@@ -20,7 +20,7 @@
   <td>Conan</td>
   </tr>
   <tr>  
-  <td>Doramon</td>
+  <td>Doraemon</td>
   </tr>
   <tr>
     <td>Bleach</td>
