@@ -2,7 +2,7 @@
 <head>
 <title>Top truyện tranh hay nhất</title>
 </head>
-<body style="background-color:#0ABAB5;">
+<body style="background =1.jpg">
      <form>
   <label for="tk">Tài :</label><br>
   <input type="text" id="tk" name="tk" value="Nhập Tài Khoản"><br>
