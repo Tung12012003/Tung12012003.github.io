@@ -17,21 +17,20 @@
        &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
        &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
       <font face="cinzel" size="3">
-        <a href="#">HOME</a> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
-        <a href="#">VIDEO</a> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
-        <a href="#">MANGA</a> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+        <a href="#">BÌNH </a>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+        <a href="#">MANGA</a>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
         <a href="#">XẾPLOẠI</a>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
         <a href="#">ĐÁNHGIÁ</a>
       </font>
     </h3>
     <br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br />
     <h1 align="center">
-      <font face="Lato" color="#017bf5" size="7">
+      <font face="Lato" color="#380B61" size="7">
          Top những truyện tranh hay nhất Nhật Bản trong quá khứ bạn trẻ
       </font>
     </h1>
     <h3 align="center">
-      <font face="Lato" color="#FF0040" size="7">
+      <font face="Lato" color="#FF0040" size="55">
         ĐƯỢC THỰC HIỆN BỞI : TRẦN ĐỨC TÙNG
            
       </font>
