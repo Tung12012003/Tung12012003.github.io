@@ -5,18 +5,18 @@
 <body background="2.jpg">
                 
    <form>
-  <label for="tk">Tài :</label><br>
+  <label for="tk">Tài Khỏa:</label><br>
   <input align="right"  type="text" id="tk" name="tk" value="Nhập Tài Khoản"><br>
   <label for="mk">Mật Khẩu:</label><br>
   <input align="right" type="text" id="mk" name="mk" value="Nhập Mật Khẩu">
 </form>
  <br />
     <h3 align="center">
-      <font face="lato" size="6">DANH SÁCH</font>
+      <font face="lato" size="5">DANH SÁCH</font>
       &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
        &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
        &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
-      <font face="cinzel" size="4">
+      <font face="cinzel" size="3">
         <a href="#">HOME</a> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
         <a href="#">VIDEO</a> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
         <a href="#">MANGA</a> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
