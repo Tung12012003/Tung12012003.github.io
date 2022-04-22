@@ -5,7 +5,7 @@
 <body background="2.jpg">
                 
    <form>
-  <label for="tk">Tài :</label><br>
+  <label for="tk">Tài  :</label><br>
   <input align="right"  type="text" id="tk" name="tk" value="Nhập Tài Khoản"><br>
   <label for="mk">Mật Khẩu:</label><br>
   <input align="right" type="text" id="mk" name="mk" value="Nhập Mật Khẩu">
