@@ -1,13 +1,13 @@
 <html>
 <head>
-<title>Top truyen tranh hay nhat</title>
+<title>Top truyện tranh hay nhất</title>
 </head>
 <body style="background-color:#0ABAB5;">
      <form>
   <label for="tk">Tài :</label><br>
   <input type="text" id="tk" name="tk" value="Nhập Tài Khoản"><br>
   <label for="mk">Mật Khẩu:</label><br>
-  <input type="text" id="mk" name="mk" value="N Mật Khẩu"> 
+  <input type="text" id="mk" name="mk" value="Nhập Mật Khẩu"> 
 </form>
   <h1>Top những truyện tranh hay nhất Nhật Bản trong quá khứ bạn trẻ </h1>
 
