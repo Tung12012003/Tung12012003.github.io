@@ -2,7 +2,7 @@
 <head>
 <title>Top Truyện </title>
 </head>
-<body background="2.jpg">
+<body background="0.jpg">
                 
    <form>
   <label for="tk">Tài Khoản:</label><br>
