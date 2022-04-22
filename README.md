@@ -30,14 +30,14 @@
       </font>
     </h1>
     <h3 align="center">
-      <font face="Lato" color="#000" size="7">
+      <font face="Lato" color="#FF0040" size="7">
         ĐƯỢC THỰC HIỆN BỞI : TRẦN ĐỨC TÙNG
            
       </font>
     </h3>
     </br>
   <h3 align="center">
-    <a hred="#">GET STARTED</a>
+    <a hred="#"><-_-></a>
   </h3>
      
   <table style="width:100%">
