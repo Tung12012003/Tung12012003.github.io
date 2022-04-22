@@ -2,7 +2,7 @@
 <head>
 <title>Top Truyện </title>
 </head>
-<body background="1.fiff">
+<body background="1.">
    <form>
   <label for="tk">Tài :</label><br>
   <input type="text" id="tk" name="tk" value="Nhập Tài Khoản"><br>
