@@ -3,7 +3,12 @@
 <title>Top truyen tranh hay nhat</title>
 </head>
 <body style="background-color:#0ABAB5;">
-      
+     <form>
+  <label for="fname">First name:</label><br>
+  <input type="text" id="fname" name="fname" value="John"><br>
+  <label for="lname">Last name:</label><br>
+  <input type="text" id="lname" name="lname" value="Doe"> align="right"
+</form>
   <h1>Top những truyện tranh hay nhất Nhật Bản trong quá khứ bạn trẻ </h1>
 
   <table style="width:100%">
@@ -80,11 +85,5 @@ One Piece là bộ truyện xoay quanh một nhóm cướp biển được gọi
   <p>nếu muốn xem Bleach link phần dưới đây:
    <a href="https://animehay.club/tim-kiem/Bleach.html/">Visit animeha.club</a>
 </p>
-<form>
-  <label for="fname">First name:</label><br>
-  <input type="text" id="fname" name="fname"><br>
-  <label for="lname">Last name:</label><br>
-  <input type="text" id="lname" name="lname">
-</form>
 </body>
 </html>
