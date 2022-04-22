@@ -1,16 +1,45 @@
 <html>
 <head>
-<title>Top truyện tranh hay nhất</title>
+<title>Top Truyện </title>
 </head>
-<body background=1.fiff>
-     <form>
+<body background="1.fiff">
+   <form>
   <label for="tk">Tài :</label><br>
   <input type="text" id="tk" name="tk" value="Nhập Tài Khoản"><br>
   <label for="mk">Mật Khẩu:</label><br>
   <input type="text" id="mk" name="mk" value="Nhập Mật Khẩu"> 
 </form>
-  <h1>Top những truyện tranh hay nhất Nhật Bản trong quá khứ bạn trẻ </h1>
-
+ <br />
+    <h3 align="center">
+      <font face="lato"size="6">LOGO</font>
+      &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+       &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+       &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+      <font face="cinzel" size="4">
+        <a href="#">HOME</a> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+        <a href="#">VIDEO</a> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+        <a href="#">MANGA</a> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+        <a href="#">XẾPLOẠI</a>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+        <a href="#">ĐÁNHGIÁ</a>
+      </font>
+    </h3>
+    <br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br />
+    <h1 align="center">
+      <font face="Lato" color="#017bf5" size="7">
+         Top những truyện tranh hay nhất Nhật Bản trong quá khứ bạn trẻ
+      </font>
+    </h1>
+    <h3 align="center">
+      <font face="Lato" color="#000" size="7">
+        ĐƯỢC THỰC HIỆN BỞI : TRẦN ĐỨC TÙNG
+           
+      </font>
+    </h3>
+    </br>
+  <h3 align="center">
+    <a hred="#">GET STARTED</a>
+  </h3>
+     
   <table style="width:100%">
   <tr>
   <td>One Piece</td>
