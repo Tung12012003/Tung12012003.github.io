@@ -4,10 +4,10 @@
 </head>
 <body style="background-color:#0ABAB5;">
      <form>
-  <label for="fname">First name:</label><br>
-  <input type="text" id="fname" name="fname" value="John"><br>
-  <label for="lname">Last name:</label><br>
-  <input type="text" id="lname" name="lname" value="Doe"> align="right"
+  <label for="tk">Tài :</label><br>
+  <input type="text" id="tk" name="tk" value="Nhập Tài Khoản"><br>
+  <label for="mk">Mật Khẩu:</label><br>
+  <input type="text" id="mk" name="mk" value="N Mật Khẩu"> 
 </form>
   <h1>Top những truyện tranh hay nhất Nhật Bản trong quá khứ bạn trẻ </h1>
 
