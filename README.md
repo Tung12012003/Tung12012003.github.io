@@ -6,9 +6,9 @@
                 
    <form>
   <label for="tk">Tài :</label><br>
-  <input type="text" id="tk" name="tk" value="Nhập Tài Khoản"><br>
+  <input align="right"  type="text" id="tk" name="tk" value="Nhập Tài Khoản"><br>
   <label for="mk">Mật Khẩu:</label><br>
-  <input type="text" id="mk" name="mk" value="Nhập Mật Khẩu">align="right" 
+  <input align="right" type="text" id="mk" name="mk" value="Nhập Mật Khẩu">
 </form>
  <br />
     <h3 align="center">
