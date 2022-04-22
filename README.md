@@ -3,13 +3,14 @@
 <title>Top Truyện </title>
 </head>
 <body background="0.jpg">
-                
+ <div style="text-align:right;">               
    <form>
   <label for="tk">Tài Khoản:</label><br>
-  <input align="right"  type="text" id="tk" name="tk" value="Nhập Tài Khoản"><br>
+  <input type="text" id="tk" name="tk" value="Nhập Tài Khoản"><br>
   <label for="mk">Mật Khẩu:</label><br>
-  <input align="right" type="text" id="mk" name="mk" value="Nhập Mật Khẩu">
+  <input type="text" id="mk" name="mk" value="Nhập Mật Khẩu">
 </form>
+   </div>
  <br />
     <h3 align="center">
       <font face="lato" size="5">DANH SÁCH</font>
