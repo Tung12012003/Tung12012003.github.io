@@ -18,10 +18,12 @@
        &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
  
       <font face="cinzel" size="3">
-        <a href="DS/naruto.html" target="_blank" style="color:#380B61;">Naruto</a> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
-        <a href="#" style="color:#380B61;">MANGA</a> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
-        <a href="#" style="color:#380B61;">XẾPLOẠI</a>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
-        <a href="#" style="color:#380B61;">ĐÁNHGIÁ</a>
+       <a href="DS/onepiece.html" target="_blank" style="color:#F5E70A;">Onepiece</a> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 
+       <a href="DS/naruto.html" target="_blank" style="color:#F5E70A;">Naruto</a> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 
+       <a href="DS/dragonball.html" target="_blank" style="color:#F5E70A;">Dragon Ball</a>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+       <a href="DS/conan.html" target="_blank" style="color:#F5E70A;">Conan</a>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 
+       <a href="DS/bleach.html" target="_blank" style="color:#F5E70A;">Bleach</a>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 
+       <a href="DS/Doraemon.html" target="_blank" style="color:#F5E70A;">Doraemon</a>
       </font>
     </h3>
     <br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br />
