@@ -21,7 +21,7 @@
     <h3 align="center">
       <font face="lato" size="5">DANH SÁCH</font>
       &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
-       &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+       &nbsp; &nbsp;
  
       <font face="cinzel" size="3">
        <a href="DS/onepiece.html" target="_blank" style="color:#F5E70A;">Onepiece</a> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 
