@@ -1,10 +1,11 @@
-<html>
+<DOCTYPE html>
+<html lang="en">
 <head>
+
 <title>Top Truyện </title>
   <meta charset="UTF=8">
-  <meta name="viewport" content="width=device-width", initial-scale=1.0">
-</head>
- <div style="text-align:right;">               
+  <meta name="viewport" content="width=device-width", initial-scale=1.0">                                             <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+
    <form>
   <label for="tk">Tài Khoản:</label><br>
   <input type="text" id="tk" name="tk" value="Nhập Tài Khoản"><br>
@@ -12,25 +13,89 @@
   <input type="text" id="mk" name="mk" value="Nhập Mật Khẩu">
 </form>
 <body style="margin: 0;font-family: Arial;">
- header {
-        background-color:#122D84;
-        min-height: 300px;
-    }                
-   </div>
- <br />
+    <div style="text-align:right;">                                           
+ <style>
+    header {
+        background-color: hsl(225, 57%, 23%);
+        height: 10vh;
+    }
+    section {
+        text-align: center;
+        background-color: hsl(200, 57%, 23%);
+        height: 70vh;
+    }
+    footer {
+        background-color: hsl(175, 57%, 23%);
+        height: 20vh;
+    }
+    img {
+        position: absolute;
+    }
+    a:link, a:visited {
+        font-size: 20px;
+        padding: 50px 30px;
+        color: white;
+        text-decoration: none;
+    }
+    a:hover, a:active {
+        font-size: 20px;
+        padding: 50px 30px;
+        color: black;
+        background-color: white;
+        text-decoration: underline;
+    }
+    .flex-box {
+        display: flex;
+        flex-direction: column;
+    }
+    .mag {
+        margin-top: 30px;
+        margin-left: 100px;
+    }
+    form.example input[type=text] {
+        border-radius: 15px 0 0 15px;
+        padding: 10px;
+        font-size: 17px;
+        border: 1px solid grey;
+        float: left;
+        width: 80%;
+        background: #f1f1f1;
+    }
+    form.example button {
+        border-radius: 0 15px 15px 0;
+        float: left;
+        width: 20%;
+        padding: 10px;
+        background: #2196F3;
+        color: white;
+        font-size: 17px;
+        border: 1px solid grey;
+        border-left: none;
+        cursor: pointer;
+    }
+    * {
+        box-sizing: border-box;
+    }
+    </style>
+    </head>                               
+    <body style="margin: 0;font-family: Arial;">                                       
+   <header>
+    <div class="flex-box">                                           
+    <div class="mag">
+    <img src="text123.png" alt="text" width="10%"> 
+<br />
     <h3 align="center">
-      <font face="lato" size="5">DANH SÁCH</font>
       &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
        &nbsp; &nbsp;
- 
-      <font face="cinzel" size="3">
-       <a href="DS/onepiece.html" target="_blank" style="color:#F5E70A;">Onepiece</a> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
-       <a href="DS/naruto.html" target="_blank" style="color:#F5E70A;">Naruto</a> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  
-       <a href="DS/dragonball.html" target="_blank" style="color:#F5E70A;">Dragon Ball</a>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 
-       <a href="DS/conan.html" target="_blank" style="color:#F5E70A;">Conan</a>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  
-       <a href="DS/bleach.html" target="_blank" style="color:#F5E70A;">Bleach</a>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 
+      <font face="cinzel" size="4">
+       <a href="DS/onepiece.html" target="_blank" style="color:#F5E70A;">Onepiece</a> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+       <a href="DS/naruto.html" target="_blank" style="color:#F5E70A;">Naruto</a> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  
+       <a href="DS/dragonball.html" target="_blank" style="color:#F5E70A;">Dragon Ball</a>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+       <a href="DS/conan.html" target="_blank" style="color:#F5E70A;">Conan</a>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  
+       <a href="DS/bleach.html" target="_blank" style="color:#F5E70A;">Bleach</a>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 
        <a href="DS/doraemon.html" target="_blank" style="color:#F5E70A;">Doraemon</a>
       </font>
+    </div>                                                                     
     </h3>
     <br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br />
     <h1 align="center">
@@ -48,6 +113,7 @@
         <input type="text" placeholder="Search.." name="search">
         <button type="submit"><i class="fa fa-search"></i></button>
     </form>
+                                                   
     </section>                                           
 </body>
 </html>
