@@ -35,10 +35,10 @@
         margin-top: 50px;
         margin-left: 100px;
     }
-   .img {                                
+   img {                                
   position: absolute;
-	top: 30px;
-	left: 200px;	
+	top: 50px;
+	left: 12120px;	
 	  }
    
     </style>
