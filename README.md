@@ -50,7 +50,7 @@
         flex-direction: column;
     }
     .mag {
-        margin-top: 30px;
+        margin-top: 0px;
         margin-left: 100px;
     }
     form.example input[type=text] {
@@ -96,7 +96,8 @@
        <a href="DS/bleach.html" target="_blank" style="color:#F5E70A;">Bleach</a>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 
        <a href="DS/doraemon.html" target="_blank" style="color:#F5E70A;">Doraemon</a>
       </font>
-    </div>                                                                     
+    </div>
+    </header>                                                                    
     </h3>
     <br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br />
     <h1 align="center">
