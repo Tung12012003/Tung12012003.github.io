@@ -50,7 +50,7 @@
         flex-direction: column;
     }
     .mag {
-        margin-top: 0px;
+        margin-top: 50px;
         margin-left: 100px;
     }
     form.example input[type=text] {
