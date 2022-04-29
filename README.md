@@ -16,7 +16,7 @@
  <style>
     header {
         background-color: hsl(225, 57%, 23%);
-        height: 10vh;
+        height: 20vh;
     }
     section {
         text-align: center;
@@ -37,7 +37,7 @@
     }
    .img {                                
   position: absolute;
-	top: 10px;
+	top: 30px;
 	left: 200px;	
 	  }
    
