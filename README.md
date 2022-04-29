@@ -12,7 +12,7 @@
   <input type="text" id="mk" name="mk" value="Nhập Mật Khẩu">
 </form>
 <body style="margin: 0;font-family: Arial;">
- header 
+ header {
         background-color:#122D84;
         min-height: 300px;
     }                
