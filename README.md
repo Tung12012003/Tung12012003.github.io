@@ -38,7 +38,7 @@
    img {                                
   position: absolute;
 	top: 50px;
-	left: 12120px;	
+	left: 120px;	
 	  }
    
     </style>
