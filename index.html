@@ -29,22 +29,6 @@
         background-color: hsl(175, 57%, 23%);
         height: 20vh;
     }
-    img {
-        position: absolute;
-    }
-    a:link, a:visited {
-        font-size: 20px;
-        padding: 50px 30px;
-        color: white;
-        text-decoration: none;
-    }
-    a:hover, a:active {
-        font-size: 20px;
-        padding: 50px 30px;
-        color: black;
-        background-color: white;
-        text-decoration: underline;
-    }
     .flex-box {
         display: flex;
         flex-direction: column;
@@ -53,30 +37,12 @@
         margin-top: 50px;
         margin-left: 100px;
     }
-    form.example input[type=text] {
-        border-radius: 15px 0 0 15px;
-        padding: 10px;
-        font-size: 17px;
-        border: 1px solid grey;
-        float: left;
-        width: 80%;
-        background: #f1f1f1;
-    }
-    form.example button {
-        border-radius: 0 15px 15px 0;
-        float: left;
-        width: 20%;
-        padding: 10px;
-        background: #2196F3;
-        color: white;
-        font-size: 17px;
-        border: 1px solid grey;
-        border-left: none;
-        cursor: pointer;
-    }
-    * {
-        box-sizing: border-box;
-    }
+   .img {                                
+  position: absolute;
+	top: 10px;
+	left: 200px;	
+	  }
+   
     </style>
     </head>                               
     <body style="margin: 0;font-family: Arial;">                                       
