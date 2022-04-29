@@ -29,7 +29,7 @@
        <a href="DS/dragonball.html" target="_blank" style="color:#F5E70A;">Dragon Ball</a>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
        <a href="DS/conan.html" target="_blank" style="color:#F5E70A;">Conan</a>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 
        <a href="DS/bleach.html" target="_blank" style="color:#F5E70A;">Bleach</a>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 
-       <a href="DS/Doraemon.html" target="_blank" style="color:#F5E70A;">Doraemon</a>
+       <a href="DS/doraemon.html" target="_blank" style="color:#F5E70A;">Doraemon</a>
       </font>
     </h3>
     <br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br />
