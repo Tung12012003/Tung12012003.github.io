@@ -27,17 +27,17 @@
         background-color: hsl(175, 57%, 23%);
         height: 20vh;
     }
-    .flex-box {
+    flex-box {
         display: flex;
         flex-direction: column;
     }
-    .mag {
+    mag {
         margin-top: 50px;
         margin-left: 100px;
     }
    img {                                
   position: absolute;
-	top:30px;
+	top:330px;
 	left: 120px;	
 	  }
    
