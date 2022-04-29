@@ -81,15 +81,6 @@ One Piece là bộ truyện xoay quanh một nhóm cướp biển được gọi
 <p>Tại Việt Nam, nhà xuất bản Kim Đồng đã xuất bản với tên nguyên gốc và có tên phụ là Bảy viên ngọc rồng.</p>
    <p>nếu muốn xem Dragon Ball link phần dưới đây : 
    <a href="https://animehay.club/tim-kiem/dragon-ball.html/">Visit animehay.club</a>
-  <h2>3.Naruto</h2>
-  <p>Với những Fan của Manga Nhật bản thì Naruto là bộ truyện không thể không nhắc đến. Bộ truyện kể về cậu bé Naruto, 12 năm trước, làng Lá bị một con Cửu vĩ hồ tấn công. Hokage đệ tứ - người đứng đầu làng Lá - đã phong ấn một con hồ ly vào người Naruto.</p>
-  <p>12 năm sau, cậu bé lớn lên trong sự khiếp sợ và lo lắng của người dân làng. Họ sợ một ngày nào đó, phong ấn Cửu vĩ hồ trên người Naruto bị hủy, cậu bé sẽ trở thành sự hủy diệt cho ngôi làng. Cậu nhóc bị xa lánh và tuổi thơ cậu tràn đầy bóng tối u ám.</p>
-     <img src="n.jpg" alt="naruto" width="640" height="360">
-  <p>Khi đến tuổi, cậu bé vào học tại Học viện đào tạo Ninja như bạn bè cùng trang lứa. Tại đây, cậu đã gặp được những người bạn, người thầy giúp cậu thay đổi chính mình.
-  </p>Cậu bé hiếu động, ồn ào và sống một cách mạnh mẽ. Cậu đã tự chính bản thân chứng minh cho dân làng thấy cậu là Uzumaki Naruto chứ không phải đứa trẻ bị nguyền rủa, không phải là cái bóng của con quái vật độc ác. Ước mơ lớn nhất của Naruto đó chính là trở thành một Hokage, và để thực hiện được ước mơ ấy, cậu phải càng mạnh mẽ thêm nữa.</p>
-  <p>Naruto là một bộ truyện dạy bạn phải biết yêu thương. Yêu thương và tha thứ sẽ tiếp thêm sức mạnh cho bạn, thù hận và lòng tham sẽ chỉ là sợi dây trói buộc mà bạn không thể nhận ra cho đến khi quá trễ. Hãy mạnh dạn và tin tưởng vào con đường của mình dù bạn không biết điểm cuối nó sẽ như thế nào, vì đó là con đường mà bạn đã chọn.</p>
-    <p>nếu muốn xem Naruto link phần dưới đây:
-   <a href="https://animehay.club/tim-kiem/naruto.html/">Visit animehay.club</a>
   <h2>4.Conan</h2>
   <p>Ai trong chúng ta chắc ít nhất một lần đọc Conan và cùng hòa vào những vụ án cùng những tình tiết nổi bật trong truyện. Thám tử lừng danh Conan kể về thám tử trung học Kudo Shinichi. Trong một lần điều tra, cậu bị hai thành viên trong tổ chức áo đen phát hiện. Chúng cho cậu uống loại thuốc teo nhỏ APTX 4869 do tổ chức điều chế ra và biến cơ thể cậu trở về hình dạng của một đứa trẻ học tiểu học.</p>
   <p>Sau đó, cậu đổi tên thành Edogawa Conan và sống tại nhà thám tử gà mờ Mori Kogoro. Xuyên suốt những tập truyện là quá trình cậu âm thầm hỗ trợ điều tra các vụ án bên cạnh ông Mori và tìm ra được kẻ sát nhân cuối cùng. </p>
