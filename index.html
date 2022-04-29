@@ -1,8 +1,9 @@
 <html>
 <head>
 <title>Top Truyện </title>
+  <meta charset="UTF=8">
+  <meta name="viewport" content="width=device-width", initial-scale=1.0">
 </head>
-<body background="0.jpg">
  <div style="text-align:right;">               
    <form>
   <label for="tk">Tài Khoản:</label><br>
@@ -10,6 +11,11 @@
   <label for="mk">Mật Khẩu:</label><br>
   <input type="text" id="mk" name="mk" value="Nhập Mật Khẩu">
 </form>
+<body style="margin: 0;font-family: Arial;">
+ header 
+        background-color:#122D84;
+        min-height: 300px;
+    }                
    </div>
  <br />
     <h3 align="center">
@@ -33,7 +39,15 @@
       </font>
     </h1>
     <h3 align="center">
-      <font face="Lato" color="#FF0040" size="55">
+      <font face="Lato" color="#FF0040" size="5">
         ĐƯỢC THỰC HIỆN BỞI : TRẦN ĐỨC TÙNG
+ <section>
+    <h1 style="font-size: 50px;color: white;margin-bottom: 30px;margin-top: 80px;">Learn to Code</h1>
+    <h3 style="margin-bottom: 30px;">Tìm kiếm.</h3>
+    <form class="example" action="" style="margin:auto;max-width:300px;">
+        <input type="text" placeholder="Search.." name="search">
+        <button type="submit"><i class="fa fa-search"></i></button>
+    </form>
+    </section>                                           
 </body>
 </html>
