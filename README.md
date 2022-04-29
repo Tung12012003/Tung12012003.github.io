@@ -18,10 +18,10 @@
        &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
  
       <font face="cinzel" size="3">
-        <a href="#"color="#380B61">BÌNH </a> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
-        <a href="#"color="#380B61">MANGA</a> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
-        <a href="#"color="#380B61">XẾPLOẠI</a>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
-        <a href="#"color="#380B61">ĐÁNHGIÁ</a>
+        <a href="#" style="color:#380B61;">BÌNH </a> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+        <a href="#" style="color:#380B61;">MANGA</a> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+        <a href="#" style="color:#380B61;">XẾPLOẠI</a>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+        <a href="#" style="color:#380B61;">ĐÁNHGIÁ</a>
       </font>
     </h3>
     <br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br />
