@@ -37,7 +37,7 @@
     }
    img {                                
   position: absolute;
-	top:330px;
+	top:30px;
 	left: 120px;	
 	  }
    
