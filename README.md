@@ -18,7 +18,7 @@
        &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
  
       <font face="cinzel" size="3">
-        <a href="naruto.html "target="_blank" style="color:#380B61;">Naruto</a> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+        <a href="/naruto.html "target="_blank" style="color:#380B61;">Naruto</a> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
         <a href="#" style="color:#380B61;">MANGA</a> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
         <a href="#" style="color:#380B61;">XẾPLOẠI</a>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
         <a href="#" style="color:#380B61;">ĐÁNHGIÁ</a>
