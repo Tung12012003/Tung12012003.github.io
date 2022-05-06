@@ -37,12 +37,12 @@
     }
    img {                                
   position: absolute;
-	top: 97px;
+	top: 120px;
 	left: 120px;	
 	  }
    input {padding:15px 10px; 
 	}
-   button { padding: 10px ;
+   button { padding: 15px 10px ;
     border-width: 3px;}
 		
     </style>
