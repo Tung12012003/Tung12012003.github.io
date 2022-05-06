@@ -48,7 +48,8 @@
    border: 1px solid grey;
   background: whitesmoke		  
 	}
-  form.example button { input {border-radius: 0 20px 20px 0;
+  form.example button { 
+   border-radius: 0 20px 20px 0;
    float: left;
    width:20%;
    padding:10px;
