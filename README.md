@@ -40,8 +40,11 @@
 	top: 97px;
 	left: 120px;	
 	  }
-   input {padding:10px
+   input {padding:10px 
 	}
+   button { padding: 10px ;
+    border-width: 33px;
+		
     </style>
     </head>                               
     <body style="margin: 0;font-family: Arial;">                                       
@@ -76,7 +79,7 @@
  <section>
     <h1 style="font-size: 50px;color: white;margin-bottom: 30px;margin-top: 80px;">Nhập vào tìm kiếm</h1>
     <h3 style="margin-bottom: 30px;">Tìm kiếm.</h3>
-    <form class="example" action="" style="margin:auto;max-width:00px;">
+    <form class="example" action="" style="margin:auto;max-width:1000px;">
         <input type="text" placeholder="Search.." name="search">
         <button type="submit"><i class="fa fa-search"></i></button>
     </form>
