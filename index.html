@@ -40,7 +40,7 @@
 	top: 120px;
 	left: 120px;	
 	  }
-   input {border-radius: 0 20px 20px 0;
+ form.example input[type=text] {border-radius: 0 20px 20px 0;
    padding: 10px;				  
    float: left;
    width:80%;
@@ -48,7 +48,7 @@
    border: 1px solid grey;
   background: whitesmoke		  
 	}
-   button { input {border-radius: 0 20px 20px 0;
+  form.example button { input {border-radius: 0 20px 20px 0;
    float: left;
    width:20%;
    padding:10px;
@@ -56,7 +56,8 @@
    pont-size:17px;
    border: 1px solid grey;
    border-left:none;
-   cursor: pointer;}
+   cursor: pointer;
+}
 		
     </style>
     </head>                               
