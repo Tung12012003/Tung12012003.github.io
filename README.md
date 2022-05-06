@@ -40,10 +40,23 @@
 	top: 120px;
 	left: 120px;	
 	  }
-   input {padding:15px 10px; 
+   input {border-radius: 0 20px 20px 0;
+   padding: 10px;				  
+   float: left;
+   width:80%;
+   pont-size:17px;
+   border: 1px solid grey;
+  background: whitesmoke		  
 	}
-   button { padding: 15px 10px ;
-    border-width: 2px;}
+   button { input {border-radius: 0 20px 20px 0;
+   float: left;
+   width:20%;
+   padding:10px;
+   background:#2196f3;				  
+   pont-size:17px;
+   border: 1px solid grey;
+   border-left:none;
+   cursor: pointer;}
 		
     </style>
     </head>                               
@@ -79,7 +92,7 @@
  <section>
     <h1 style="font-size: 50px;color: white;margin-bottom: 30px;margin-top: 80px;">Nhập vào tìm kiếm</h1>
     <h3 style="margin-bottom: 30px;">Tìm kiếm.</h3>
-    <form class="example" action="" style="margin:auto;max-width:1000px;">
+    <form class="example" action="" style="margin:auto;max-width:300px;">
         <input type="text" placeholder="Search.." name="search">
         <button type="submit"><i class="fa fa-search"></i></button>
     </form>
