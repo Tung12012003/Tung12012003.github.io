@@ -40,7 +40,7 @@
 	top: 97px;
 	left: 120px;	
 	  }
-   input {padding:10px 
+   input {padding:15px 10px; 
 	}
    button { padding: 10px ;
     border-width: 3px;}
