@@ -43,7 +43,7 @@
    input {padding:10px 
 	}
    button { padding: 10px ;
-    border-width: 33px;
+    border-width: 3px;}
 		
     </style>
     </head>                               
