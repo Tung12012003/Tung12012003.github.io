@@ -92,7 +92,7 @@
         ĐƯỢC THỰC HIỆN BỞI : TRẦN ĐỨC TÙNG
  <section>
     <h1 style="font-size: 50px;color: white;margin-bottom: 30px;margin-top: 80px;">Nhập vào tìm kiếm</h1>
-    <h3 style="margin-bottom: 30px;">Tìm kiếm.</h3>
+    <h3 style="margin-bottom: 30px;">Tìm kiếm truyện.</h3>
     <form class="example" action="" style="margin:auto;max-width:300px;">
         <input type="text" placeholder="Search.." name="search">
         <button type="submit"><i class="fa fa-search"></i></button>
