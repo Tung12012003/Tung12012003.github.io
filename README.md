@@ -37,24 +37,25 @@
     }
    img {                                
   position: absolute;
-	top9797px;
+	top: 97px;
 	left: 120px;	
 	  }
- form.example input[type=text] {border-radius: 0 20px 20px 0;
+ form.example input[type=text] {
+   border-radius: 0 20px 20px 0;
    padding: 10px;				  
    float: left;
    width:80%;
-   pont-size:17px;
+   font-size:17px;
    border: 1px solid grey;
-  background: whitesmoke		  
+  background: whitesmoke;		  
 	}
-  form.example button { 
-   border-radius: 0 20px 20px 0;
+  form.example button {
+border-radius: 0 20px 20px 0;
    float: left;
    width:20%;
    padding:10px;
    background:#2196f3;				  
-   pont-size:17px;
+   font-size:17px;
    border: 1px solid grey;
    border-left:none;
    cursor: pointer;
