@@ -41,7 +41,7 @@
 	left: 120px;	
 	  }
  form.example input[type=text] {
-   border-radius: 0 20px 20px 0;
+   border-radius: 20px 0 0 20px;
    padding: 10px;				  
    float: left;
    width:80%;
