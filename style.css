@@ -1,0 +1,48 @@
+
+    header {
+        background-color: hsl(225, 57%, 23%);
+        height: 20vh;
+    }
+    section {
+        text-align: center;
+        background-color: hsl(200, 57%, 23%);
+        height: 70vh;
+    }
+    footer {
+        background-color: hsl(175, 57%, 23%);
+        height: 20vh;
+    }
+    flex-box {
+        display: flex;
+        flex-direction: column;
+    }
+    mag {
+        margin-top: 50px;
+        margin-left: 100px;
+    }
+   img {                                
+  position: absolute;
+	top: 97px;
+	left: 120px;	
+	  }
+ form.example input[type=text] {
+   border-radius: 20px 0 0 20px;
+   padding: 10px;				  
+   float: left;
+   width:80%;
+   font-size:17px;
+   border: 1px solid grey;
+  background: whitesmoke;		  
+	}
+  form.example button {
+border-radius: 0 20px 20px 0;
+   float: left;
+   width:20%;
+   padding:10px;
+   background:#2196f3;				  
+   font-size:17px;
+   border: 1px solid grey;
+   border-left:none;
+   cursor: pointer;
+}
+	
