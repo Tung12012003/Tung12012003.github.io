@@ -29,6 +29,7 @@
     </div>
     </header>                                                                    
     </h3>
+     <div ="banner">                                                                   
     <br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br />
     <h1 align="center">
       <font face="Lato" color="#380B61" size="7">
@@ -38,6 +39,7 @@
     <h3 align="center">
       <font face="Lato" color="#FF0040" size="5">
         ĐƯỢC THỰC HIỆN BỞI : TRẦN ĐỨC TÙNG
+    </div>                                            
  <section>
     <h1 style="font-size: 50px;color: white;margin-bottom: 30px;margin-top: 80px;">Nhập vào tìm kiếm</h1>
     <h3 style="margin-bottom: 30px;">Tìm kiếm truyện.</h3>
